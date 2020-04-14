@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607450520948",
+    "firebase_url": "https://uet-assistant.firebaseio.com",
+    "project_id": "uet-assistant",
+    "storage_bucket": "uet-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607450520948:android:2a50f480218fd08e58e021",
+        "android_client_info": {
+          "package_name": "com.haupc.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607450520948-7ddofc3hjh37mdjk7ndl1se332m1dgi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haupc.chatapp",
+            "certificate_hash": "701a0235578ad2026847d200e447de976bf5921a"
+          }
+        },
+        {
+          "client_id": "607450520948-ik5g15je7b6amjn62m9tqeq5psadd1u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYk71hDgGTNFqtaGqgkPUFktyaHWhDKv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607450520948-ik5g15je7b6amjn62m9tqeq5psadd1u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
